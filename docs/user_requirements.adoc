@@ -2,9 +2,11 @@
 
 These are required by users?
 
+STOCK
 
 ==== Functional Requirements
 
 - User should be able to login to their account
+- User should be able to view current stock
 
 ==== Non-Functional Requirements
